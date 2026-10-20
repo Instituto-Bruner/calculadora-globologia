@@ -8,7 +8,7 @@ Abrí `index.html` con cualquier navegador moderno. No requiere instalación, se
 
 ## Uso
 
-La aplicación incluye Cálculo Rápido, Cálculo Básico y Rentabilidad como recorridos principales. El Manual de uso integrado explica el proceso completo, desde la configuración inicial hasta la impresión del presupuesto para el cliente.
+La aplicación incluye Cálculo Rápido, Armado de presupuesto y Rentabilidad como recorridos principales. El Manual de uso integrado explica el proceso completo, desde la configuración inicial hasta la impresión del presupuesto para el cliente.
 
 ## Datos
 
